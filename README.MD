@@ -11,9 +11,8 @@ A ideia é que o podcast fale sobre UX e a ideia é criar um epsódio que fale s
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+
 
 ## ✨ Como foi feito ?
 
@@ -108,6 +107,7 @@ Claro! Aqui está o roteiro completo e detalhado para o primeiro episódio do po
 ---
 
 Espero que esse roteiro completo ajude a estruturar o primeiro episódio do seu podcast "Experiência Conectada"! Boa sorte!
+
 - Capa do capítulo do podcast gerada no Chatgpt: https://photos.app.goo.gl/SvdRXVJNkXQa3MxL8
 
 - Audio gerado pela elevenLabs: https://drive.google.com/file/d/1T-v7uKUMGEbKtnRofO1y13kwVDeS0pS8/view?usp=sharing
